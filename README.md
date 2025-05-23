@@ -1,29 +1,26 @@
-# FSHFARMS
+# FSH Farms - Static Website for a Farming Business
 
-This template should help get you started developing with Vue 3 in Vite.
+**Live Site:** [www.fshfarms.site]
+**Client:** FSH Farms, Nigeria  
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Overview
 
-## Customize configuration
+This is a responsive static website built for **FSH Farms**, a local agricultural business. The goal was to provide a clean and modern platform to showcase their brand, produce, and contact details—all while keeping it fast and mobile-friendly.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## Tech Stack
 
-```sh
-npm install
-```
+- **Vue.js 3**
+- **Tailwind CSS**
+- **Vite**
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
+## Credits
 
-### Compile and Minify for Production
+**Designed & Developed by John Sanusi**  
 
-```sh
-npm run build
-```
+---
